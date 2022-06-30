@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "VizuryEventLogger"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A CocoaPods library written in Objective C"
 
   spec.description  = <<-DESC
@@ -16,7 +16,7 @@ This CocoaPods library helps you perform calculation.
   spec.swift_version = "4.2"
 
   spec.source        = { :git => "https://github.com/ashishaffle/new-ios-sdk.git", :tag => "#{spec.version}" }
-  spec.source_files  = 'Classes/*.{h,m}'
+  spec.source_files  = 'VizuryEventLogger.{h,m}'
   
 
 end
