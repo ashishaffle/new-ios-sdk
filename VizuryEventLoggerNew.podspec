@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "VizuryEventLoggerNew"
-  spec.version      = "1.0.10"
+  spec.version      = "1.0.1"
   spec.summary      = "A CocoaPods library written in Objective C"
 
   spec.description  = <<-DESC
